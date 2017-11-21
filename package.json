@@ -1,0 +1,26 @@
+{
+  "name": "testinitnpm",
+  "version": "0.0.1",
+  "description": "test for deploy npm ui",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://xiaoleiooo@github.com/xiaoleiooo/react-native-chat.git"
+  },
+  "keywords": [
+    "testaaaa"
+  ],
+  "author": "xiaoleiooo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaoleiooo/react-native-chat/issues"
+  },
+  "homepage": "https://github.com/xiaoleiooo/react-native-chat#readme"
+}
